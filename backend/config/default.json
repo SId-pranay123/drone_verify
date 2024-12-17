@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "mongoURI": "mongodb+srv://siddharthtechsteck:1oxZ161djmEQagly@cluster0.nuwajor.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "blockchain": {
+      "baseUrl": "wss://wsspc1-qa.agung.peaq.network"
+    }
+  }
+  
