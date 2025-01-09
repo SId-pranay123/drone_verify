@@ -1,0 +1,21 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@peaq-network/sdk": "^0.7.2",
+    "@polkadot/api": "^15.2.1",
+    "@polkadot/util": "^13.3.1",
+    "@polkadot/util-crypto": "^13.3.1",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.3",
+    "queue-promise": "^2.2.1"
+  }
+}
