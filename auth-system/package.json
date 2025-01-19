@@ -1,5 +1,6 @@
 {
   "name": "auth-system",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,8 +15,13 @@
     "@polkadot/api": "^15.2.1",
     "@polkadot/util": "^13.3.1",
     "@polkadot/util-crypto": "^13.3.1",
-    "dotenv": "^16.4.7",
+    "bullmq": "^5.34.9",
+    "dotenv": "^10.0.0",
+    "express": "^4.21.2",
     "mongoose": "^8.9.3",
-    "queue-promise": "^2.2.1"
+    "p-queue": "^8.0.1",
+    "pako": "^2.1.0",
+    "redis": "^4.7.0",
+    "winston": "^3.17.0"
   }
 }

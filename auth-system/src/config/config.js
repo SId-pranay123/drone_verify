@@ -1,3 +1,5 @@
+import dotenv from "dotenv";
+dotenv.config();
 export const CONFIG = {
     PEAQ_NODE_URL: "wss://wsspc1-qa.agung.peaq.network",
     BATCH_SIZE: 100,
